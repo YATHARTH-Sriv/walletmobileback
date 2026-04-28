@@ -93,3 +93,6 @@ Follow us on X (formerly Twitter) for further updates:
 https://x.com/hoverwallet
 
 Thank you for your support.
+
+Also The Prediciton Market Contract Code:
+https://github.com/YATHARTH-Sriv/basepredcode
